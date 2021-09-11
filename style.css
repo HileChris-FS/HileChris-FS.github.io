@@ -1,0 +1,23 @@
+body{
+    font-family: "Trebuchet MS";
+}
+h1{
+    color: firebrick;
+    font-size: 3em;
+    text-align: center;
+}
+h2{
+    color: deepskyblue;
+    text-align: center;
+}
+h4{
+    color: cyan;
+}
+p{
+    color: teal;
+}
+ul li{
+    color: blueviolet;
+}
+
+
